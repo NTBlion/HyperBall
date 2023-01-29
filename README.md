@@ -1,1 +1,1 @@
-Учёбный проект
+Training project
